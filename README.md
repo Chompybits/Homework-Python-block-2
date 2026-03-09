@@ -28,6 +28,6 @@
 1. Установите необходимые зависимости:
    ```bash
    pip install requests pandas matplotlib
-2. Замените API ключи для VT, Vulner и Email-отправки на те что используются вами, текущие ключи скрыты в секретах в google collab:
+2. Замените секреты с API ключами для VT, Vulner и Email-отправки на те что используются вами, текущие ключи скрыты в секретах в google collab. Ссылка на проект в коллаб https://colab.research.google.com/drive/1S2cRhGRH7sVWgz0EI5KPLAP-Gq_Jru0i?usp=sharing
 4. Укажите в VT анализируемый ip адрес. По умолчанию в get_virustotal_data указан адрес ("1.1.1.1")
 5. Укажите в Vulners Query анализируемое на уязвимости ПО. По умолчанию там указан software:python 
