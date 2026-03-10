@@ -1,0 +1,12 @@
+[
+    {
+        "source": "VirusTotal",
+        "ip": "141.98.11.11",
+        "malicious_score": 17
+    },
+    {
+        "source": "Vulners",
+        "id": "EDB-ID:32764",
+        "cvss": 7.5
+    }
+]
